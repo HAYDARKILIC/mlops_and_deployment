@@ -1,0 +1,7 @@
+# MLOps & Deployment — A From-Scratch Engineering Codex
+# Intentionally minimal. Every concept is built from scratch in pure Python/NumPy;
+# no heavyweight MLOps frameworks are required to run the notebooks.
+
+numpy>=1.24
+jupyterlab>=4.0
+nbformat>=5.9
